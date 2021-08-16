@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Monster azul",
+      "precio": "800",
+      "id": 19
+    },
+    {
+      "nombre": "Monster Verde",
+      "precio": 1500,
+      "id": 20
+    },
+    {
+      "nombre": "1",
+      "precio": 2,
+      "id": 21
+    }
+  ]
+}
